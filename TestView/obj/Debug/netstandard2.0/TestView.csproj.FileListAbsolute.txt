@@ -1,0 +1,14 @@
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/bin/Debug/netstandard2.0/TestView.deps.json
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/bin/Debug/netstandard2.0/TestView.dll
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/bin/Debug/netstandard2.0/ref/TestView.dll
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/bin/Debug/netstandard2.0/TestView.pdb
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/TestView.csproj.CoreCompileInputs.cache
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/TestView.AssemblyInfoInputs.cache
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/TestView.AssemblyInfo.cs
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/TestView.dll
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/ref/TestView.dll
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/TestView.pdb
+/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/TestView.csprojAssemblyReference.cache

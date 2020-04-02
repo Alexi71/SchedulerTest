@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8BF8F2AD-D642-445E-BDD2-349CE0F976E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestView.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="TestView.iOS/AppDelegate.cs" Line="18" Column="35" />
+      <File FileName="TestView/MainPage.xaml" />
+      <File FileName="TestView.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestView" expanded="True">
+            <Node name="TestView" expanded="True" />
+            <Node name="TestView.Android" expanded="True" />
+            <Node name="TestView.iOS" expanded="True" selected="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestView.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9D85B3A2-B100-463E-BAA0-3170A8A1D0DA" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestView.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

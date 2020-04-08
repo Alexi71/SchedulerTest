@@ -11,4 +11,3 @@
 /Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/TestView.dll
 /Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/ref/TestView.dll
 /Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/TestView.pdb
-/Users/kotika/Sourcen/Forms/Tests/TestView/TestView/obj/Debug/netstandard2.0/TestView.csprojAssemblyReference.cache

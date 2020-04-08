@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
+using Syncfusion.ListView.XForms.iOS;
 using UIKit;
 
 namespace TestView.iOS
@@ -24,7 +25,7 @@ namespace TestView.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             Syncfusion.SfSchedule.XForms.iOS.SfScheduleRenderer.Init();
-
+            SfListViewRenderer.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

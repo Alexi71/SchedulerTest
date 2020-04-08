@@ -36,6 +36,7 @@ paths;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/3
 resources;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/39/jl/res/values/styles.xml
 resources;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/42/jl/res/values/attrs.xml
 resources;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/42/jl/res/values/strings.xml
+resources;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/43/jl/res/values/strings.xml
 resources;obj/Debug/res/values/colors.xml
 resources;obj/Debug/res/values/styles.xml
 set;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/39/jl/res/anim/enterfromleft.xml
@@ -43,6 +44,7 @@ set;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/39/
 set;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/39/jl/res/anim/exittoleft.xml
 set;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/39/jl/res/anim/exittoright.xml
 string;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/42/jl/res/values/strings.xml
+string;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/43/jl/res/values/strings.xml
 style;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/39/jl/res/values/styles.xml
 style;obj/Debug/res/values/styles.xml
 translate;/Users/kotika/Sourcen/Forms/Tests/TestView/TestView.Android/obj/Debug/lp/39/jl/res/anim/enterfromleft.xml
